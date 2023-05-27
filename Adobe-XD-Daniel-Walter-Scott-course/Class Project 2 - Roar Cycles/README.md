@@ -20,4 +20,4 @@ About the documents are folders:
 - **<ins>Persona - Roar Bikes.pdf</ins>** contains the description of the client such that I can emphatise with them and put myself in their shoes.
 - **<ins>Logos</ins>** folder contains the logos and icons of Roar Bikes I am expected to use in my final deliverable.
 - **<ins>Roar Cycles Export website</ins>** folder contains all the artboards used in the formation of the UI/UX of the website
-
+- Unfortunately I am unable to upload the XD file as the file size is incredibly big at over 100MB which exceeds Github's file upload limit.
