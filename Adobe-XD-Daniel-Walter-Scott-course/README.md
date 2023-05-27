@@ -1,4 +1,4 @@
-Course Projects
+## Course Projects
 
 As part of the User Experience Design Essentials - Adobe XD UI UX Design course by Daniel Walter Scott, I had to do 2 projects which are:
 - Maynoot Furniture UI and UX for both the app and website
