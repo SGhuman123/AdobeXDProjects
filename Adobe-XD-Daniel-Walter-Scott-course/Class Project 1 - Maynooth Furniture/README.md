@@ -9,8 +9,11 @@ As you can see below here is how the app and website roughly works. Here is a vi
 
 https://xd.adobe.com/view/ad1d8c06-de81-4f3b-b54e-af48b76647a1-f84e/
 
+https://github.com/SGhuman123/AdobeXDProjects/assets/63066897/fbb822d3-3866-4c95-be86-c6955050b163
 
 
-This is a video of how the website I made using Adobe XD works. Here's the link to try it out for yourself.
+This is the link of the website I made using Adobe XD works where you can try it out for yourself.
 
 https://xd.adobe.com/view/ad1d8c06-de81-4f3b-b54e-af48b76647a1-f84e/
+
+
