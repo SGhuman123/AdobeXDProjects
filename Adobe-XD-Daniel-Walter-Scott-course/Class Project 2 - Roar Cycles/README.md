@@ -15,7 +15,7 @@ https://xd.adobe.com/view/b95b29be-1e9f-44a8-9a26-7e3d7951bf9e-ec08/
 
 About the documents are folders:
 
-- **<ins>Assignment 11.xd</ins>**is the Adobe XD file that contains both the app and website UI/UX.
+- **<ins>Assignment 11.xd</ins>** is the Adobe XD file that contains both the app and website UI/UX.
 - **<ins>Brief - Roar Bikes.pdf</ins>** contains the assignment expectations and deliverables
 - **<ins>Persona - Roar Bikes.pdf</ins>** contains the description of the client such that I can emphatise with them and put myself in their shoes.
 - **<ins>Logos</ins>** folder contains the logos and icons of Roar Bikes I am expected to use in my final deliverable.
