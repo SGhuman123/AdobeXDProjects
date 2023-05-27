@@ -1,6 +1,6 @@
 ## Course Projects
 
-As part of the User Experience Design Essentials - Adobe XD UI UX Design course by Daniel Walter Scott, I had to do 2 projects which are:
+As part of the [User Experience Design Essentials - Adobe XD UI UX Design course](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott, I had to do 2 projects which are:
 - Maynoot Furniture UI and UX for both the app and website
 - Roar Bicycles UI adn UX for the website.
 
