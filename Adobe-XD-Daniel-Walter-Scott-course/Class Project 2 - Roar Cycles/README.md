@@ -1,5 +1,5 @@
 # About Roar Cycles Project
-In this project, I was tasked with creating a website UI/UX for a client (not real) called Jake, who cycles to work and wants his bicycle to be practical but unique. The company that best accomplishes this is Roar Bikes. This is a manufacturer of small run, contemporary bicycles sold exclusively from their own website. Roar Bikes currently have 3 models of bike to purchase (Siamese, Sphynx, Bengal)
+In this project, I was tasked with creating a website UI/UX for a client (not real) for a client called Jake, who cycles to work and wants his bicycle to be practical but unique. The company that best accomplishes this is Roar Bikes. This is a manufacturer of small run, contemporary bicycles sold exclusively from their own website. Roar Bikes currently have 3 models of bike to purchase (Siamese, Sphynx, Bengal)
 
 Primary objectives:
 
