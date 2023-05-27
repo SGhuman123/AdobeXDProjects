@@ -16,4 +16,6 @@ This is the link of the website I made using Adobe XD works where you can try it
 
 https://xd.adobe.com/view/ad1d8c06-de81-4f3b-b54e-af48b76647a1-f84e/
 
-
+About the documents are folders:
+- Assignment 11.xd is the Adobe XD file that contains both the app and website UI/UX.
+- 
